@@ -5,7 +5,7 @@
 Neste tutorial de programação, você aprenderá como usar Python para criar um scraper web que gera rostos humanos sintéticos de forma automatizada. Usando a biblioteca requests e o OpenCV, exploraremos um site que gera imagens de pessoas que não existem e as salvará em seu computador.
 
 Código Fonte:
-https://github.com/hansalemaos/tutorial_scraping_gerador_rostos_humanos
+[https://github.com/hansalemaos/tutorial_scraping_gerador_rostos_humanos](https://github.com/hansalemaos/tutorial_scraping_gerador_rostos_humanos/blob/main/code.py)
 
 Neste vídeo, você aprenderá:
 
